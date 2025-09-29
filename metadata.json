@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Dashboard",
+  "description": "An application that allows users to upload raw data, which is then cleaned, structured, and visualized into an interactive dashboard using the Gemini API.",
+  "requestFramePermissions": []
+}
